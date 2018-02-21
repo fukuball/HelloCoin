@@ -1,2 +1,0 @@
-# HelloCoin
-Hello coin
