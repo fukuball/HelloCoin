@@ -11,6 +11,7 @@ module.exports = {
       port: 8546,
       from: "0x6898a60bb7a38f5b70cb6d18930177d1d5b9eaa6",
       gas: 8000029,
+      gasPrice: 3000,
       network_id: "development" // Match any network id
     },
     mainnet: {
@@ -18,6 +19,7 @@ module.exports = {
       port: 8545,
       from: "0x6898a60bb7a38f5b70cb6d18930177d1d5b9eaa6",
       gas: 8000029,
+      gasPrice: 3000,
       network_id: "mainnet" // Match any network id
     }
   }
