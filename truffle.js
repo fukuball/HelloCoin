@@ -10,16 +10,16 @@ module.exports = {
       host: "localhost",
       port: 8546,
       from: "0x6898a60bb7a38f5b70cb6d18930177d1d5b9eaa6",
-      gas: 21000,
-      gasPrice: 30000000000,
+      gas: 25200,
+      gasPrice: 21000000000,
       network_id: "development" // Match any network id
     },
     mainnet: {
       host: "localhost",
       port: 8545,
       from: "0x6898a60bb7a38f5b70cb6d18930177d1d5b9eaa6",
-      gas: 21000,
-      gasPrice: 30000000000,
+      gas: 25200,
+      gasPrice: 21000000000,
       network_id: "mainnet" // Match any network id
     }
   }
