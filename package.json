@@ -1,5 +1,8 @@
 {
   "name": "HelloCoin",
   "version": "1.0.0",
-  "description": "Hello Coin"
+  "description": "Hello Coin",
+  "dependencies": {
+    "zeppelin-solidity": "^1.7.0"
+  }
 }
